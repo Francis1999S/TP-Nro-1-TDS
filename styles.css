@@ -65,7 +65,7 @@ body {
 
 }
 
-@media (min-width: 1001px) {
+@media (min-width: 1025px) {
     .Link_Card { 
         width: 25%;
         height: 80%;
@@ -86,7 +86,7 @@ body {
 
     }
 }
-@media (max-width: 1000px) {
+@media (max-width: 1024px) {
     .Link_Card { 
         width: 90%;
         height: 80%;
