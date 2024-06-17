@@ -108,3 +108,31 @@ body {
 
     }
 }
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .Link_Card { 
+        width: 80%;
+        height: 95%;
+        .Top_Box {
+            img {
+                height: 30%;
+                border-radius: 100%;
+            }
+            h3 {
+                margin: 0;
+            }
+            p {
+                margin: 0;
+            }
+        }
+
+        .Bottom_Box {
+            width: 85%;
+            height: 65%;
+            a {
+                margin: 0;
+                padding: 0.7vw 0 0.7vw 0;
+            }
+        }
+
+    }
+  }
